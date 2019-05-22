@@ -1,0 +1,4 @@
+curl -X POST "https://api.spotify.com/v1/users/*user*/playlists/*pid*/tracks" 
+-H "Authorization: Bearer *token*" 
+-H "Accept: application/json" 
+-d "{\"uris\": [*songs*]}"
