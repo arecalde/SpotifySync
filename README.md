@@ -2,14 +2,14 @@
 ## CreatePlaylist & ListPlaylist 
 Both require spotify developer account
 open the files and fill in your credentials
-visit [spotipy docs]("https://spotipy.readthedocs.io/en/latest/") for more info
+visit [spotipy docs](https://spotipy.readthedocs.io/en/latest/) for more info
 
 ## GetGoogleData 
 Needs a username and password
 
 It also gets all your playlists and puts it in googleData.txt
 This must be called before running index.php
-visit [gmusic api docs]("https://unofficial-google-music-api.readthedocs.io/en/latest/") for more info
+visit [gmusic api docs](https://unofficial-google-music-api.readthedocs.io/en/latest/) for more info
 
 ## user.txt
 spotify username of whatever account you are accessing
